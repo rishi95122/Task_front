@@ -1,8 +1,14 @@
-# React + Vite
+# Links
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 1. Frontend
 
-Currently, two official plugins are available:
+Deployed Link=https://taskmanagement333.vercel.app/
+Front-end GIthub repo =https://github.com/rishi95122/Task_front
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 2. Backend
+
+Backend API=  https://taskmanagemenapi.onrender.com
+Backend Github repo = https://github.com/rishi95122/TASK_Backend
+
+
+
